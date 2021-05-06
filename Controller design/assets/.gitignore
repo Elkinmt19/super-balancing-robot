@@ -1,0 +1,8 @@
+# -------- CUSTOM EXAMPLES --------
+examples
+
+# ------ OTHER DIRECTORIES IGNORES -----
+excels
+
+# -------- VSCODE IGNORES ------
+.vscode
