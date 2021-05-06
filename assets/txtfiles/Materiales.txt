@@ -1,0 +1,26 @@
+Motoreductores: Motorreductor: 6-12Vdc 330RPM 14Kg/cm (Engranaje helicoidal) -> Ref: POL-4752
+Potente motor DC con relacion 30:1, voltaje de funcionamiento 12V. Torque: 14Kg-cm.
+Link: https://didacticaselectronicas.com/~didactic/index.php/elementos-electromecanicos/motores-y-solenoides-1/motores-dc-1/motorreductor-6-12vdc-330rpm-14kg-cm-engranaje-helicoidal-motor-motorreductor-motor-reductor-eje-6mm-330rpm-detail
+
+Ruedas:Rueda Pololu 80x10 blanca por Par -> Ref: POL-1434
+Rueda Pololu de plástico y silicona, diámetro 80mm, ancho 10mm, color blanco cantidad por pares.
+Link: https://didacticaselectronicas.com/~didactic/index.php/robotica/ruedas-1/rueda-pololu-80x10-blanca-por-par-ruedas-llantas-blanca-pololu-detail
+
+Buje motor-rueda:Buje de Aluminio para eje de 6mm pares -> Ref: POL-1083
+Te permite montar ruedas y mecanismos para ejes de 6mm.
+Link: https://didacticaselectronicas.com/~didactic/index.php/robotica/componentes-mecanicos/buje-de-aluminio-para-eje-de-6mm-pares-bujes,hubs-balineras-rodamientos-acople-hubs-pololu-detail
+
+Soporte motor: Soporte para motorreductor 37D mm -> Ref: POL-1084
+Soporte en aluminio ideal para asegurar un motorreductor compatible en su proyecto.
+Link: https://didacticaselectronicas.com/~didactic/index.php/robotica/componentes-mecanicos/soporte-para-motorreductor-37d-mm-bracket-motor-reductor-37d-pololu-detail
+
+Puente H (BTS 79600)
+Otra opción: https://www.bigtronica.com/centro/motores/drivers/2398-driver-puente-h-para-1-motor-dc-5v-27v-5a-5053212023980.html?search_query=driver+&results=49
+
+Elevador de voltaje (XL6009)
+
+Regulador de voltaje (LM2596)
+
+Teensy 3.2 
+
+18650 3.7v baterry balance charge ready

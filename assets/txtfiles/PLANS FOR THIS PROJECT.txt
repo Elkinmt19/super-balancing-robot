@@ -1,0 +1,10 @@
+This project is about builting a balancing robot, using a very advanced mechanical desing and electronics too, this robot will be build using ROS (Robot Operating system), which is the main tool to program robots right now.
+
+
+I'm gonna build this robot, working in both parts at the same time in my free times.
+
+
+This robot will be the best robot noboby ever see ever.
+
+
+Let's do it!!
