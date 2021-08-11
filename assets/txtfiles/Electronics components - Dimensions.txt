@@ -1,0 +1,6 @@
+Motor drivers -> Dimensions
+6,1 cm x 3 cm -> Planar
+
+	Ports -> Dimensions
+	2 cm x 1 cm x 1,6 cm
+
